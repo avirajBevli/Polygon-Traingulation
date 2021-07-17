@@ -1,7 +1,5 @@
 //Aviraj Singh Bevli, 18MA20009
 //O(nlogn)implementation
-//Note -> This code does not give correct output...I could not finish writing the code due to shortage of time
-//Sorry
 
 /*
 The split and merge vertices are sources
